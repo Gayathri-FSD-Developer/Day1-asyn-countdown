@@ -9,5 +9,5 @@ and deployed the value in browser end</p>
   <il>addEventListner</il>
 </ul>
 <h2>And my output will be</h2>
-<img src="countdown_1.jpg" alt="result1" height="500" width="500">
-<img src="countdown_2.jpg" alt="result2" height="500" width="500">
+<img src="countdown_1.jpg" alt="result1" height="350" width="350">
+<img src="countdown_2.jpg" alt="result2" height="350" width="350">
