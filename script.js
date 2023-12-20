@@ -36,7 +36,7 @@ setTimeout(function () {
                 setTimeout(function(){
                     document.getElementById("second_col").innerText="";
                     var img=document.createElement("img");
-                    img.src="independence.gif";
+                    img.src="Independence.gif";
                     img.width = "1000";
                     img.height = "700";
                     var sec=  document.getElementById("second_col");
