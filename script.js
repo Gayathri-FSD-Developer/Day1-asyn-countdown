@@ -1,5 +1,5 @@
 // used setTimer function to call back the another settimer function repeatedly to show the countdown
-// 1000 milesecond = 1 sec
+// 1000 milesecond = 1 sec;
  
 let seconds = 10;
 
